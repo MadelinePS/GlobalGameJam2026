@@ -75,9 +75,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # External Assets and Objects
-Content/__ExternalActors__
-Content/__ExternalActors__/*
-__ExternalActors__/**/*.uasset
 
 Content/__ExternalObjects__
 Content/__ExternalObjects__/*
