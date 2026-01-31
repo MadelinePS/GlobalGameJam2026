@@ -74,5 +74,11 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-__ExternalActors__/*
-__ExternalObjects__/*
+# External Assets and Objects
+Content/__ExternalActors__
+Content/__ExternalActors__/*
+__ExternalActors__/**/*.uasset
+
+Content/__ExternalObjects__
+Content/__ExternalObjects__/*
+__ExternalObjects__/**/*.uasset
